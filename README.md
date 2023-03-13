@@ -7,4 +7,5 @@ Videos:
 
 Source git repo:
 - https://github.com/karpathy/makemore
+- https://github.com/karpathy/nn-zero-to-hero
 
